@@ -4,7 +4,7 @@ Este proyecto contiene el juego del Pong simple con un indicador de puntuaciones
 - A Programar los coliders, que serian algo asi como los limites donde colisionan elementos.
 - Interactuar con los elementos haciendo clases.
 - Crear funciones unicas y dinamicas para reutilizar codigo y que sea limpio y ordenado.
-- 
+  
 # 💫 About Me:
 🔭 Estoy creando proyectos para aprender distintos lenguajes. <br>🌱Actualmente estoy aprendiendo Python basico haciendo juegos.<br>
 
